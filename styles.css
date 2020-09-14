@@ -1,0 +1,32 @@
+
+form{
+    text-align: center;
+    width: 40%;
+    background-color: #460303;
+    height:300px;
+    margin:70px auto 0;
+}
+form input{
+    margin: 50px auto 0;
+    width: 380px;
+    height: 40px;
+    text-align: center;
+    /* text-transform: capitalize; */
+    border-style: ridge;
+}
+form #password{
+    margin:40px;
+}
+form #submit{
+    margin:-12px;
+    width: 300px;
+    height: 40px;
+    color: black;
+    font-weight: bold;
+
+}
+h1{
+    background-color: #460303;
+    color:white;
+    text-align: center;
+}
